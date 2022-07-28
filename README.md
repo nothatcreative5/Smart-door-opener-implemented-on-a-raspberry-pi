@@ -1,7 +1,7 @@
 # Python-smart-video-door-opener-raspberry-pi
 Python smart video door opener with different modes built with Raspberry Pi 3 , keypad.
 
-This project is the final project of the Embedded systems course taught by Dr.Ansari.
+Final project of the Embedded systems course taught by Dr.Ansari.
 
 ## Hardware:
 - Raspberry Pi (Monitor, keypad)
