@@ -3,11 +3,6 @@ Python smart video door opener with different modes built with Raspberry Pi 3 , 
 
 This project is made for the final project of the Embedded systems course taught by Dr.Ansari.
 
-## Team members:
-- Arya Jalali 98105665
-- Reza Soumi 98105857
-- Amirhossein Bagher 98105621
-
 ## Hardware:
 - Raspberry Pi (Monitor, keypad)
 - Phone with a working camera.(install camera IP)
