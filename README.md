@@ -52,7 +52,6 @@ Connect the data lines of the keypad to the Raspberry Pi GPIO pins as shown in t
 + Create your env to run 'main.py', for which you need to have met all the requirements written in 'requirments.txt'.
 + Install RPI.GPIO.
 + Run the program using the following command:
-+ for running you have to pass 3 arguments like bellow 
 ```console
 python3 main.py -n admin -sk live:.cid.2ed8ea3282acdacd -img 192.168.204.44:8080
 ```
