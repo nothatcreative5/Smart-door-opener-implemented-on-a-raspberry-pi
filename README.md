@@ -56,11 +56,8 @@ Connect the data lines of the keypad to the Raspberry Pi GPIO pins as shown in t
 python3 main.py -n admin -sk live:.cid.2ed8ea3282acdacd -img 192.168.204.44:8080
 ```
 
-<li>
+<li>-n: The name of the owner (cannot be changed during runtime)</li>
 
--n: Name of the owner (cannot be changed during runtime)
+<li>-sk: The skype id of the owner (cannot be changed during runtime)</li>
 
--sk: The skype id of the owner (cannot be changed during runtime)
-
--img: IP:Port of your camera.
-</li>
+<li>-img: IP:Port of your camera</li>
